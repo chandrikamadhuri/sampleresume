@@ -26,5 +26,31 @@
     "institute":"ST.JOHNS",
     "data":["2013-14","88%"]
   }
+],
+"skills":[
+  {
+    "title":"programming languages",
+    "info":["c","c++","java","python"]
+},
+{
+"title":"databases",
+"info":["mysql","oracle"]
+},
+{
+  "title":"operating systems",
+  "info":["linux","unix","windows"]
+},
+{
+  "title":"web technologies",
+  "info":["HTML","CSS","XML"]
+}
+],
+  "Achievements":[
+    {
+      "info":["goodprogramming"," good teamskills"]
+    },
+      {
+        "info":["got first in ppt ","got first in essaywriting"]
+      }
 ]
 }
