@@ -1,0 +1,30 @@
+{
+"details":{
+"name":"chandrika madhuri",
+"email":"madhurigogulamudi2@gmail.com",
+"mobie":"9898989898",
+"image":"image.png",
+"address":"pvpsit"
+},
+"career":{"info":
+  "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+
+},
+"education":[
+  {
+    "degree":"B-TECH",
+    "institute":"PVPSIT",
+    "data":["2016-20","90%"]
+  },
+  {
+    "degree":"INTERMEDIATE",
+    "institute":"SICHAITANYA",
+    "data":["2014-15","89%"]
+  },
+  {
+    "degree":"CBSE",
+    "institute":"ST.JOHNS",
+    "data":["2013-14","88%"]
+  }
+]
+}
